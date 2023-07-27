@@ -1,0 +1,8 @@
+{
+    "name": "STLogin",
+    "version": "1.0.0",
+    "author": "daniel.tbaraujo@gmail.com",
+    "dependencies": {
+        "pupeteer": "0.0.1"
+    }
+}
