@@ -2,7 +2,9 @@
     "name": "STLogin",
     "version": "1.0.0",
     "author": "daniel.tbaraujo@gmail.com",
+    "main": "index.js",
     "dependencies": {
-        "pupeteer": "0.0.1"
+        "dotenv": "^16.3.1",
+        "puppeteer": "^20.9.0"
     }
 }
