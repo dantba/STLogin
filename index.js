@@ -14,7 +14,7 @@ async function stRobot() {
     await page.type("[type='password']", process.env.ST_PASSWORD)
     await page.type("[type='text']", process.env.ST_LOGIN)
     await page.click("[type='submit']")
-
+    await page.close()
 
 
 }
